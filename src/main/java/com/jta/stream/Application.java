@@ -1,4 +1,4 @@
-package com.jth.stream;
+package com.jta.stream;
 
 import java.util.ArrayList;
 import java.util.Arrays;
